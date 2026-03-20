@@ -1,9 +1,8 @@
 # 💫 About Me:
 Hey there 👋<br><br>I'm Vaibhav, a CSE student passionate about:<br><br>⚡ DSA & Problem Solving  <br>🤖 Machine Learning  <br>🚀 Tech & Innovation  <br><br>Always learning. Always building.
-
 ## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1280px-LinkedIn_2021.svg.png))](https://linkedin.com/in/vaibhavgupta64) 
-[![Email]([https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](https://brandlogos.net/wp-content/uploads/2025/04/gmail-logo_brandlogos.net_eqenr.png))](mailto:vaibhavgupta9349@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavgupta64) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavgupta9349@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/kaunvaibhav/)
 
 # 💻 Tech Stack:
